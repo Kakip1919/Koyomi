@@ -4,6 +4,7 @@ h1{
 }
 .title{
     font-size: 100px;
+
 }
 .submit_button{
 
@@ -24,13 +25,31 @@ body {
     font-size: 100px;
 }
 p{
-    font-size: 25px;
+    font-size: 18px;
 }
-.block{
-    height:50px;
+.href_block{
+    height:80px;
 }
 .subtitle{
     text-align: left;
     padding-left: 260px;
     font-size: 70px;
+}
+.href_year{
+
+}
+.title_color{
+    color: #7172ac;
+    font-size: 120px;
+}
+.inline{
+    display: inline-block;
+
+    width: 100px;
+    height: 80px;
+    padding: 0px 50px;
+    font-size: 30px;
+}
+.end{
+    height: 100px;
 }
